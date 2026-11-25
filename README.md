@@ -1,1 +1,1 @@
-# tcc-etica
+git init
